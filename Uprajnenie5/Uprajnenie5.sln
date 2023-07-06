@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uprajnenie5", "Uprajnenie5\Uprajnenie5.csproj", "{ECFEA0D0-2283-4ACE-AD22-250BBC32C4E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFEA0D0-2283-4ACE-AD22-250BBC32C4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFEA0D0-2283-4ACE-AD22-250BBC32C4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFEA0D0-2283-4ACE-AD22-250BBC32C4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFEA0D0-2283-4ACE-AD22-250BBC32C4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2002B0E-D77E-45AC-B16C-0F961A5D2DC5}
+	EndGlobalSection
+EndGlobal
