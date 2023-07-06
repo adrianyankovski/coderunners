@@ -1,0 +1,15 @@
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\bin\Debug\net6.0\Uprajnenie3.exe
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\bin\Debug\net6.0\Uprajnenie3.deps.json
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\bin\Debug\net6.0\Uprajnenie3.runtimeconfig.json
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\bin\Debug\net6.0\Uprajnenie3.dll
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\bin\Debug\net6.0\Uprajnenie3.pdb
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.csproj.AssemblyReference.cache
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.AssemblyInfoInputs.cache
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.AssemblyInfo.cs
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.csproj.CoreCompileInputs.cache
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.dll
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\refint\Uprajnenie3.dll
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.pdb
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\Uprajnenie3.genruntimeconfig.cache
+C:\Users\logik\Desktop\Uprajnenie3\Uprajnenie3\obj\Debug\net6.0\ref\Uprajnenie3.dll
